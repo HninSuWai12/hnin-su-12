@@ -3,14 +3,14 @@ import React from 'react'
 const Backend = () => {
   return (
     <div className="skills-content">
-        <h3 className="skills-title">Backend developer</h3>
+        <h3 className="skills-title">Backend </h3>
         <div className="skills-box">
             <div className="skills-group">
                 <div className="skills-data">
                 <i className="bx bx-badge-check"></i>
                 <div >
                     <h3 className="skills-name">PHP</h3>
-                    <span className="skills-level">Intermediate</span>
+                    <span className="skills-level">Basic</span>
                 </div>
                 </div>
                 
@@ -18,19 +18,19 @@ const Backend = () => {
                 <div className="skills-data">
                 <i className="bx bx-badge-check"></i>
                 <div >
-                    <h3 className="skills-name">Java</h3>
-                    <span className="skills-level">Basic</span>
+                    <h3 className="skills-name">Laravel</h3>
+                    <span className="skills-level">Intermediate</span>
                 </div>
                 </div>
                
 
-                <div className="skills-data">
+                {/* <div className="skills-data">
                 <i className="bx bx-badge-check"></i>
                 <div >
                     <h3 className="skills-name">C#</h3>
                     <span className="skills-level">Basic</span>
                 </div>
-                </div>
+                </div> */}
                 
             </div>
 
@@ -44,20 +44,20 @@ const Backend = () => {
                 </div>
                 
 
-                <div className="skills-data">
+                {/* <div className="skills-data">
                 <i className="bx bx-badge-check"></i>
                 <div >
                     <h3 className="skills-name">AWS</h3>
                     <span className="skills-level">Basic</span>
                 </div>
-                </div>
+                </div> */}
                
 
                 <div className="skills-data">
                 <i className="bx bx-badge-check"></i>
                 <div >
                     <h3 className="skills-name">Git</h3>
-                    <span className="skills-level">Intermediate</span>
+                    <span className="skills-level">Basic Knowledge</span>
                 </div>
                 </div>
                 
