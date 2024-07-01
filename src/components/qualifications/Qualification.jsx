@@ -90,7 +90,7 @@ const Qualification = () => {
                 </h3>
                 <span className="qualification-subtitle">ILBC, Edtech</span>
                 <div className="qualification-calendar">
-                  <i className="uil uil-calendar-alt"></i> 2023 Jun - 2023 Sep
+                  <i className="uil uil-calendar-alt"></i> 2023 May - 2023 Sep
                 </div>
               </div>
 
@@ -108,7 +108,7 @@ const Qualification = () => {
               </div>
               <div>
                 <h3 className="qualification-title">
-                  Laravel Developer (Freelance)
+                  Real Estate using Laravel(Freelance)
                 </h3>
                 <span className="qualification-subtitle">
                   Collborate with Create Team
@@ -129,7 +129,7 @@ const Qualification = () => {
                   Digital Copilot
                 </span>
                 <div className="qualification-calendar">
-                  <i className="uil uil-calendar-alt"></i> 2024 Feb - Present
+                  <i className="uil uil-calendar-alt"></i> 2024 Feb - 2024 July
                 </div>
               </div>
 
